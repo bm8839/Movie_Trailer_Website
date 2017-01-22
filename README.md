@@ -7,7 +7,7 @@
   * Install [Git Bash](https://openhatch.org/missions/windows-setup/install-git-bash)
   * Open Git Bash and enter the following command
   ```
-  $ git clone url
+  $ git clone https://github.com/bm8839/Movie_Trailer_Website
   ```
   * You must have a standard web browser installed like Internet Explorer, Mozilla Firefox, or Google Chrome.
 
